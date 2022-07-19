@@ -17,7 +17,6 @@ def changed_num(N):
 def changed_first(N):
   if numeral_count(N) < 3:
     print("В первом числе меньше трёх цифр.")
-    print("Попробуйте еще раз")
   else:
     print('Изменённое первое число:', changed_num(N))
     
