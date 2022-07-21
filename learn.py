@@ -1,4 +1,4 @@
-print('Задача 5. Недоделка 2')
+print('Задача 5. Недоделка ### 2')
 
 def numeral_count(N):
   num_count = 0
